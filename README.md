@@ -3,7 +3,7 @@
 💻 BCA Student
 ☁️ Interested in Cloud & DevOps
 🐍 Learning Python and Software Development
-🚀 Building projects and improving daily through hands-on development
+🚀 Building projects and improving daily through hands-on development.
 
 ---
 
