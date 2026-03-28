@@ -3,21 +3,22 @@
 💻 BCA Student
 ☁️ Interested in Cloud & DevOps
 🐍 Learning Python and Software Development
+🚀 Building projects and improving daily through hands-on development
 
 ---
 
 ## 🚀 Projects
 
-* 🎮 Number Guessing Game
-  → Built with Pygame, includes GUI, sound effects, and standalone executable
+* 🎮 Number Guessing Game  
+Pygame-based desktop game featuring GUI, difficulty levels, sound effects, and standalone executable (.exe)
 
 ---
 
 ## 🛠 Skills
 
-* Python
-* Git & GitHub
-* Basic Game Development
+- Python  
+- Git & GitHub  
+- Pygame (GUI & Game Development)  
 
 ---
 
@@ -31,7 +32,7 @@
 
 ## 🎯 Goals
 
-* Become a Cloud + Software Developer
+* Become a Cloud and Software Developer
 * Build real-world projects
 * Improve problem-solving skills
 
