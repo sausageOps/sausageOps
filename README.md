@@ -9,8 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Real+Projects;Learning+Cloud+%26+DevOps;Future+Software+Engineer&center=true&width=500&height=50" />
 </p>
 
-<br>
-
 <ul>
   <li>🌱 Learning <b>Python (Advanced), Cloud Fundamentals</b></li>
   <li>👯 Open to collaborate on <b>Rust / Python projects</b></li>
@@ -20,31 +18,19 @@
   <li>⚡ <i>I build projects instead of just watching tutorials 😄</i></li>
 </ul>
 
-<br>
-
 <h2>🔥 Featured Project</h2>
 
 <b>🟢 Razer Hover Battery</b><br>
 Lightweight Windows tray app built with Rust<br>
 ✔ No Synapse required<br>
 ✔ Auto-start + installer<br>
-
-<br>
 🔗 <a href="https://github.com/sausageOps/razer-hover-battery">View Project</a>
-
-<br><br>
 
 <h2>🛠 Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,rust,git,github,vscode,figma,ps" />
+  <img src="https://skillicons.dev/icons?i=python,c,rust,git,github,vscode,figma,ps,aws" />
 </p>
-
-<p align="center">
-  <b>+ Antigravity (AI tools workflow)</b>
-</p>
-
-<br>
 
 <h2>🌐 Connect</h2>
 
@@ -57,8 +43,4 @@ Lightweight Windows tray app built with Rust<br>
   </a>
 </p>
 
-<br>
-
-<p align="center">
-⭐ Building projects daily and improving step by step
-</p>
+<p align="center">⭐ Building projects daily and improving step by step</p>
