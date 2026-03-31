@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/voygarscape" target="blank"><img src="https://img.shields.io/twitter/follow/voygarscape?logo=twitter&style=for-the-badge" alt="voygarscape" /></a> </p>
 
-- 🌱 I’m currently learning **C, Python (Advanced), Cloud Fundamentals**
+- 🌱 I’m currently learning **Python (Advanced), Cloud Fundamentals**
 
 - 👯 I’m looking to collaborate on **Beginner-friendly Rust / Python projects**
 
