@@ -32,15 +32,4 @@ Lightweight Windows tray app built with Rust<br>
   <img src="https://skillicons.dev/icons?i=python,c,rust,git,github,vscode,figma,ps,aws" />
 </p>
 
-<h2>🌐 Connect</h2>
-
-<p align="center">
-  <a href="https://twitter.com/voygarscape" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/sausageops" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-</p>
-
 <p align="center">⭐ Building projects daily and improving step by step</p>
