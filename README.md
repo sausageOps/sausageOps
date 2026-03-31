@@ -1,29 +1,64 @@
 <h1 align="center">Hi 👋, I'm Aniket Chakraborty</h1>
 <h3 align="center">💻 BCA Student | 🚀 Aspiring Cloud & Software Developer 📍 India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sausageops&label=Profile%20views&color=0e75b6&style=flat" alt="sausageops" /> </p>
-
-<p align="left"> <a href="https://twitter.com/voygarscape" target="blank"><img src="https://img.shields.io/twitter/follow/voygarscape?logo=twitter&style=for-the-badge" alt="voygarscape" /></a> </p>
-
-- 🌱 I’m currently learning **Python (Advanced), Cloud Fundamentals**
-
-- 👯 I’m looking to collaborate on **Beginner-friendly Rust / Python projects**
-
-- 🤝 I’m looking for help with [Razer Hover Battery](https://github.com/sausageOps/razer-hover-battery)
-
-- 👨‍💻 All of my projects are available at [ttps://github.com/sausageOps](ttps://github.com/sausageOps)
-
-- 💬 Ask me about **Python, Rust basics, Git, beginner projects,Cloud S3, EC2**
-
-- 📫 How to reach me **amegomaster@gmail.com**
-
-- ⚡ Fun fact **I build projects instead of just watching tutorials 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/voygarscape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="voygarscape" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sausageops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sausageops" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sausageOps&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Real+Projects;Learning+Cloud+%26+DevOps;Future+Software+Engineer&center=true&width=500&height=50" />
+</p>
+
+<br>
+
+<ul>
+  <li>🌱 Learning <b>Python (Advanced), Cloud Fundamentals</b></li>
+  <li>👯 Open to collaborate on <b>Rust / Python projects</b></li>
+  <li>🤝 Working on <a href="https://github.com/sausageOps/razer-hover-battery">Razer Hover Battery</a></li>
+  <li>💬 Ask me about <b>Python, Rust basics, Git</b></li>
+  <li>📫 Reach me at <b>amegomaster@gmail.com</b></li>
+  <li>⚡ <i>I build projects instead of just watching tutorials 😄</i></li>
+</ul>
+
+<br>
+
+<h2>🔥 Featured Project</h2>
+
+<b>🟢 Razer Hover Battery</b><br>
+Lightweight Windows tray app built with Rust<br>
+✔ No Synapse required<br>
+✔ Auto-start + installer<br>
+
+<br>
+🔗 <a href="https://github.com/sausageOps/razer-hover-battery">View Project</a>
+
+<br><br>
+
+<h2>🛠 Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,rust,git,github,vscode,figma,ps" />
+</p>
+
+<p align="center">
+  <b>+ Antigravity (AI tools workflow)</b>
+</p>
+
+<br>
+
+<h2>🌐 Connect</h2>
+
+<p align="center">
+  <a href="https://twitter.com/voygarscape" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/sausageops" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+⭐ Building projects daily and improving step by step
+</p>
