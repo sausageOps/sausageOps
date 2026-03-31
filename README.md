@@ -1,39 +1,73 @@
-# Hi, I'm Aniket 👋
+# 👋 Hi, I'm Aniket
 
-💻 BCA Student
-☁️ Interested in Cloud & DevOps
-🐍 Learning Python and Software Development
-🚀 Building projects and improving daily through hands-on development.
+💻 BCA Student | 🚀 Aspiring Cloud & Software Developer
+📍 India
+
+---
+
+## ⚡ About Me
+
+* 🌱 Currently learning **C, Python & Cloud Fundamentals**
+* 🧠 Interested in **DevOps & Backend Development**
+* 🛠 Building real-world projects step by step
+* 🎯 Goal: Become a **Cloud Engineer / Software Developer**
 
 ---
 
 ## 🚀 Projects
 
-* 🎮 Number Guessing Game  
-Pygame-based desktop game featuring GUI, difficulty levels, sound effects, and standalone executable (.exe)
+### 🔹 Razer Hover Battery
+
+👉 Lightweight Windows tray app to check Razer mouse battery
+
+* Built with **Rust + HID API**
+* No Synapse required
+* Auto-start + installer support
+
+🔗 https://github.com/sausageOps/razer-hover-battery
 
 ---
 
-## 🛠 Skills
+### 🎮 Number Guessing Game
 
-- Python  
-- Git & GitHub  
-- Pygame (GUI & Game Development)  
+👉 Pygame-based desktop game
+
+* GUI + difficulty levels
+* Sound effects
+* Standalone executable
 
 ---
 
-## 📚 Currently Learning
+## 🛠 Tech Stack
 
-* C Programming
-* Python Advanced Concepts
-* Cloud Fundamentals
+* 💻 Languages: `Python`, `C`, `Rust (learning)`
+* ⚙️ Tools: `Git`, `GitHub`, `VS Code`
+* 🎮 Libraries: `Pygame`
+* ☁️ Cloud: Learning basics
+
+---
+
+## 📊 GitHub Stats
+
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sausageOps\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sausageOps\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🎯 Goals
 
-* Become a Cloud and Software Developer
-* Build real-world projects
-* Improve problem-solving skills
+* Build more real-world projects
+* Learn DevOps tools (Docker, CI/CD)
+* Get internship / job in tech
 
 ---
+
+## 📫 Connect With Me
+
+* 📧 [amegomaster@gmail.com](mailto:amegomaster@gmail.com)
+* 🔗 GitHub: https://github.com/sausageOps
+
+---
+
+⭐ If you like my projects, consider starring them!
